@@ -1,0 +1,4 @@
+Esté um arquivo de testo criado para aula de Python
+ele consiste em 4 linhas de dados 
+e será aberto com a funcção open()
+usaremos em diversos exemplos de manipulação de arquivos de textos com Python.

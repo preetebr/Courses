@@ -1,0 +1,20 @@
+cidade = 'São Paulo'
+print(cidade)
+cidade_replace = cidade.replace(' ', '-')
+print(cidade_replace)
+
+
+cidade_endswith = cidade.endswith('S')
+print(cidade_endswith)
+cidade_startswitch = cidade.startswith ('R')
+print(cidade_startswitch)
+cidade_split = cidade.split()
+print(cidade_split)
+print(cidade_split[0])
+print(cidade_split[1])
+cidade_join = ' '.join(cidade_split)
+print(cidade_join)
+cidade_lower = cidade.lower()
+print(cidade_lower)
+cidade_upper = cidade.upper()
+print(cidade_upper)
