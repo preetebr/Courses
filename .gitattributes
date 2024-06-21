@@ -1,0 +1,6 @@
+# Define o tratamento de finais de linha para arquivos de texto
+* text=auto
+
+# Tratamento específico para arquivos shell script
+*.sh text eol=lf
+
