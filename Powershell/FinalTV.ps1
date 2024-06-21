@@ -1,10 +1,10 @@
 #Monitoramento e exibição de telas Grafana. 
 #Versão 1.0
-#Criador: Kelvyn.prete
+#Criador: @preete
 #Finalidade: Monitoramento
-#Time Responsável: COMS
 
-#Esse script tem como finalidade atualizar as telas de monitoramento da sala do Datacenter, manejadas pelo time de COMS.
+
+#Esse script tem como finalidade atualizar as telas de monitoramento.
 #Ele irá executar em tarefa agendada no Windows, sem a necessidade de interação, atualizando-se a cada 10min 
 
 # Definição de URL e usuário padrão

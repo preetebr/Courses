@@ -1,6 +1,6 @@
 #Monitoramento e exibição de telas Grafana. 
 #Versão 1.0
-#Local: C:\Users\user\Documents\WindowsPowerShell\Scripts
+#Local: C:\Users\user\
 #Criador: Kelvyn
 #Finalidade: Monitoramento
 #Time Responsável: ## 
