@@ -46,6 +46,14 @@ promtool check config /etc/prometheus/prometheus.yml
 #restart na aplicação
 systemctl restart prometheus
 
+pause
+echo "Adicionando métricas ao Prometheus"
+
+sudo sed -i '16i cpu.yml' /etc/prometheus/prometheus.yml
+
+systemctl restart prometheus
+
+
 
 
 
