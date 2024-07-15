@@ -12,3 +12,15 @@ print(numeros)
 
 print(itens[1])
 
+produtos = ['laranja' , 'banana' , 'arroz', 'feijao']
+
+
+item, *outros= produtos
+
+
+print(item)
+print(outros)
+
+valores = [20,30,45,55,67]
+for real in valores:
+    print(f' Valor do produto: R${real}')
