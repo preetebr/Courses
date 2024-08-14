@@ -23,6 +23,9 @@ A ideia do PEP 8 é que possamos escrever códigos Python de forma Pythônica.
 [6] - Espaços em expressões e instruções
 
 
+[7] - Termine sempre uma instrução com uma nova linha;
+
+
 """
 
 
